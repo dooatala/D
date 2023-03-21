@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="54px" viewBox="0 0 56 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon_Residential</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="-2.84217094e-14 62 54.08425 62 54.08425 0.211649123 -2.84217094e-14 0.211649123"></polygon>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="CS_Products-Copy-13" transform="translate(-1015.000000, -57.000000)">
+            <g id="Icon_Residential" transform="translate(1016.000000, 58.000000)">
+                <path d="M49.5,51 L49.5,17 L49.5,51 Z" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M49.5,17 L49.5,51" id="Stroke-2" stroke="#DA1A32" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4.5,51 L4.5,17 L4.5,51 Z" id="Fill-4" fill="#FFFFFF"></path>
+                <path d="M4.5,51 L4.5,17" id="Stroke-5" stroke="#DA1A32" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <polygon id="Fill-7" fill="#FFFFFF" points="11.0209735 1 1 17 18.9929566 17 27.4995391 8.96049156 36.0070434 17 54 17 43.9799482 1"></polygon>
+                <g id="Group-28">
+                    <polygon id="Stroke-8" stroke="#DA1A32" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" points="10.6531333 0.896042105 43.4313 0.896042105 53.3963833 16.7824982 35.5021333 16.7824982 27.0422167 8.80004211 18.5813833 16.7824982 0.687133333 16.7824982"></polygon>
+                    <g id="Group-13" transform="translate(21.083333, 32.842105)">
+                        <path d="M0.151708333,18.4735018 L0.151708333,5.9533614 C0.151708333,2.92550175 2.76420833,0.448659649 5.957875,0.448659649 C9.15245833,0.448659649 11.7649583,2.92550175 11.7649583,5.9533614 L11.7649583,18.4735018" id="Fill-10" fill="#FFFFFF"></path>
+                        <path d="M0.151708333,18.4735018 L0.151708333,5.9533614 C0.151708333,2.92550175 2.76420833,0.448659649 5.957875,0.448659649 C9.15245833,0.448659649 11.7649583,2.92550175 11.7649583,5.9533614 L11.7649583,18.4735018" id="Stroke-12" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-15"></g>
+                    <polygon id="Fill-14" fill="#FFFFFF" mask="url(#mask-2)" points="10.53525 30.1399298 15.31475 30.1399298 15.31475 23.4118596 10.53525 23.4118596"></polygon>
+                    <polygon id="Stroke-16" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="10.53525 30.1399298 15.31475 30.1399298 15.31475 23.4118596 10.53525 23.4118596"></polygon>
+                    <polygon id="Stroke-18" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="10.53525 44.986386 15.31475 44.986386 15.31475 36.5131228 10.53525 36.5131228"></polygon>
+                    <polygon id="Stroke-20" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="38.7685833 44.986386 43.5480833 44.986386 43.5480833 36.5131228 38.7685833 36.5131228"></polygon>
+                    <polygon id="Stroke-22" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)" points="38.7685833 30.1399298 43.5480833 30.1399298 43.5480833 23.4118596 38.7685833 23.4118596"></polygon>
+                    <path d="M27.042125,17.6725193 C29.0872083,17.6725193 30.746375,19.3237474 30.746375,21.3590456 C30.746375,23.3943439 29.0872083,25.0455719 27.042125,25.0455719 C24.9970417,25.0455719 23.337875,23.3943439 23.337875,21.3590456 C23.337875,19.3237474 24.9970417,17.6725193 27.042125,17.6725193 Z" id="Stroke-24" stroke="#E37C1D" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" mask="url(#mask-2)"></path>
+                    <g id="Group-27" mask="url(#mask-2)">
+                        <g transform="translate(0.916667, 50.175439)">
+                            <path d="M0.729116667,1.13925614 L51.5216167,1.13925614" id="Fill-25" stroke="none" fill="#FFFFFF" fill-rule="evenodd"></path>
+                            <path d="M0.729116667,1.13925614 L51.5216167,1.13925614" id="Stroke-26" stroke="#DA1A32" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

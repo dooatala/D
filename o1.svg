@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="55px" height="48px" viewBox="0 0 55 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Icon Small Business</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="CS_Products-Copy-13" transform="translate(-776.000000, -63.000000)" stroke-width="2.5">
+            <g id="Icon-Small-Business" transform="translate(778.000000, 65.000000)">
+                <path d="M0,44 L51,44" id="Stroke-1" stroke="#DA1A32"></path>
+                <path d="M6,44 L6,25" id="Stroke-3" stroke="#DA1A32"></path>
+                <path d="M18,44 L18,25" id="Stroke-5" stroke="#DA1A32"></path>
+                <path d="M45,44 L45,25" id="Stroke-7" stroke="#DA1A32"></path>
+                <path d="M11,16 L14,1 L11,16 Z M20.478,16 C20.826,11 21.174,6 21.522,1 L20.478,16 Z M30.522,16 C30.174,11 29.826,6 29.478,1 L30.522,16 Z M40,16 L37,1 L40,16 Z M5.78063335,0 L45.2258075,0 L50.9114388,12.635468 C50.9694061,12.9469434 51,13.2660906 51,13.5913753 C51,16.5787774 48.4590977,19 45.3240299,19 C43.1937297,19 41.3387744,17.8829847 40.3678212,16.2289429 C39.396868,17.8829847 37.5419127,19 35.4116124,19 C33.2829224,19 31.427967,17.8829847 30.4554037,16.2289429 C29.4844505,17.8829847 27.6294952,19 25.5008051,19 C23.3705048,19 21.5155495,17.8829847 20.5429861,16.2289429 C19.572033,17.8829847 17.7186878,19 15.5883876,19 C13.4580873,19 11.603132,17.8829847 10.6321788,16.2289429 C9.66122565,17.8829847 7.80627032,19 5.67597007,19 C2.54090235,19 0,16.5787774 0,13.5913753 C0,13.2660906 0.0289836769,12.9469434 0.0869510308,12.635468 L5.78063335,0 Z" id="Stroke-28" stroke="#DA1A32"></path>
+                <path d="M13,34 L13,30" id="Stroke-19" stroke="#E37C1D"></path>
+                <path d="M28,37 L40,26" id="Stroke-21" stroke="#E37C1D"></path>
+                <path d="M33,40 L41,32" id="Stroke-23" stroke="#E37C1D"></path>
+            </g>
+        </g>
+    </g>
+</svg>
